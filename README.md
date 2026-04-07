@@ -167,21 +167,3 @@ python -m pip install ...
 
 ---
 
-## 📌 Melhorias futuras
-
-* Integração com banco de dados
-* Uso de gráficos com Plotly
-* Deploy na nuvem (Streamlit Cloud)
-* Autenticação de usuários
-
----
-
-## 👨‍💻 Autor
-
-Projeto desenvolvido para fins de estudo e prática com **Streamlit**.
-
----
-
-## 📞 Contato
-
-Caso queira trocar ideias ou tirar dúvidas, fique à vontade para entrar em contato 🚀
